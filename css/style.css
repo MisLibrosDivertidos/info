@@ -153,19 +153,19 @@ main {
 }
 
 .card-presentation-boy img{
-    width: 165px;
+    width: 160px;
     height: 165px;
-    position: relative;
-    bottom: -30px;
-    left: calc(50% - 200px);
+    position: absolute;
+    bottom: 40px;
+    left: calc(50% - 150px);
 }
 
 .card-presentation-girl img{
     width: 160px;
     height: 160px;
-    position: relative;
-    bottom: -30px;
-    left: calc(50% - 240px);
+    position: absolute;
+    bottom: 40px;
+    left: calc(50% - 15px);
 }
 
 .main-books-table {

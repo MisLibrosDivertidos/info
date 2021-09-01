@@ -2,17 +2,17 @@
 
 .container-books2-title-principal{
     width: 90%;
-    min-width: 1024px;
-    max-width: 1440px;
+    min-width: 1440px;
+    max-width: 1900px;
     margin: 0 auto;
 }
 
 .card-presentation-boy img{
-    bottom: -20px;
+    bottom: 325px;
     left: calc(50% - 150px);
 }
 
 .card-presentation-girl img{
-    bottom: -20px;
+    bottom: 325px;
     left: calc(50% - 15px);
 }
