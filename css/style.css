@@ -134,39 +134,13 @@ main {
     margin-bottom: 40px;
 }
 
-.card-presentation {
-    display: flex;
+.card-image{
     width: 270px;
-    height: 200px;
-    border: black solid 2px;
-    border-radius: 20px;
-    background: url('../assets/descarga.jpg')center/cover no-repeat;
+    height: 250px;
+    background: url('../assets/Captura.PNG')center/cover no-repeat;
     margin: 0 auto;
 }
 
-.card-presentation-book img{
-    width: 110px;
-    height: 110px;
-    position: relative;
-    bottom: 70px;
-    left: calc(50% + 30px);
-}
-
-.card-presentation-boy img{
-    width: 160px;
-    height: 165px;
-    position: absolute;
-    bottom: 40px;
-    left: calc(50% - 150px);
-}
-
-.card-presentation-girl img{
-    width: 160px;
-    height: 160px;
-    position: absolute;
-    bottom: 40px;
-    left: calc(50% - 15px);
-}
 
 .main-books-table {
     width: 70%;
